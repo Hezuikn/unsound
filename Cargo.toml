@@ -1,0 +1,7 @@
+[package]
+name = "unsound"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+safe-uninit = "*"
