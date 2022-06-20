@@ -1,0 +1,5 @@
+[profile.custom]
+inherits = "release"
+codegen-units = 1
+#signal to build.rs that we are using the custom profile
+overflow-checks = true
